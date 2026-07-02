@@ -1,0 +1,6 @@
+{
+  "name": "Cognitive Metrology Intelligence Service",
+  "description": "An API-first AI service for metrological Document AI tolerance extraction and Predictive AI drift forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
